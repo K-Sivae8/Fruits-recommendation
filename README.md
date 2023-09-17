@@ -1,2 +1,2 @@
-# Fruits-recommendation
-It is an fruits and vegetables recommendation project based on the user requirements
+Movie Recommendation System
+It is an Movie recommendation project based on the user requirements
